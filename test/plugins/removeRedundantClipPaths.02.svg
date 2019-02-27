@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="a">
+            <path d="M 0,0 h 100 v 100 h -100 z"></path>
+        </clipPath>
+    </defs>
+    <circle clip-path="url(#a)" fill="#D8D8D8" cx="62.5" cy="62.5" r="24.5"></circle>
+    <ellipse clip-path="url(#a)" fill="#D8D8D8" cx="21.5" cy="31.5" rx="6.5" ry="15.5"></ellipse>
+</svg>
+
+@@@
+
+<svg xmlns="http://www.w3.org/2000/svg">
+    <defs>
+
+    </defs>
+    <circle fill="#D8D8D8" cx="62.5" cy="62.5" r="24.5"></circle>
+    <ellipse fill="#D8D8D8" cx="21.5" cy="31.5" rx="6.5" ry="15.5"></ellipse>
+</svg>
